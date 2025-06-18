@@ -1,0 +1,21 @@
+/* src/App.css */
+
+.app-container {
+  padding: 2rem;
+  font-family: sans-serif;
+}
+
+.app-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.alert-list {
+  margin-top: 1rem;
+}
+
+.alert-item {
+  margin-bottom: 0.5rem;
+  border: 1px solid #ddd;
+  padding: 0.5rem;
+}
